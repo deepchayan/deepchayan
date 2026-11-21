@@ -1,4 +1,4 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/deepchayan?theme=catppuccinMocha&font=Plus%20Jakarta%20Sans&ext=heatmap)
+<img src="https://leetcard.jacoblin.cool/deepchayan?theme=catppuccinMocha&font=Plus%20Jakarta%20Sans&ext=heatmap&css=%23ranking%7Bdisplay%3Anone%7D" width="100%" alt="LeetCode Stats" />
 
 <!--
 ## Hi there 👋
