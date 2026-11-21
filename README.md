@@ -1,6 +1,7 @@
-## Hi there 👋
+![LeetCode Stats](https://leetcard.jacoblin.cool/deepchayan?theme=catppuccinMocha&font=Plus%20Jakarta%20Sans&ext=heatmap)
 
 <!--
+## Hi there 👋
 **deepchayan/deepchayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
